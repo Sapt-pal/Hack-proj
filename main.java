@@ -37,14 +37,19 @@ class stdmarks{
                 System.out.println("Section:"+section);
                 System.out.println("Roll No:"+roll);
                 System.out.println("Age:"+age);
-                System.out.println("Marks in Mathematics :"+marks[0]);
-                System.out.println("Marks in Physics :"+marks[1]);
-                System.out.println("Marks in Chemistry:"+marks[2]);
-                System.out.println("Marks in English :"+marks[3]);
-                System.out.println("Marks in Biology :"+marks[4]);     
-                System.out.println("Marks in Environmental Sciences :"+marks[5]);
-                System.out.println("Grade:"+grade);
-                System.out.println("Remarks :"+remarks);
+                System.out.println("Marks in Mathematics  ::"+marks[0]);
+                System.out.println("Marks in Physics  ::"+marks[1]);
+                System.out.println("Marks in Chemistry  ::"+marks[2]);
+                System.out.println("Marks in English  ::"+marks[3]);
+                System.out.println("Marks in Biology  ::"+marks[4]);     
+                System.out.println("Marks in Environmental Sciences  ::"+marks[5]);
+                System.out.println("Grade  ::"+grade);
+                System.out.println("Remarks  ::"+remarks);
                 System.out.println("************************************************************************************"); 
-                System.out.println("********END*********");    
+                System.out.println("********END*********");  
+              }
+  
+  
+  
+}
                  
